@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Jonathon from Nottinghamshire<br><br>- 🔭 I’m working as computer science<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jonathon from Nottinghamshire<br><br>- 🔭 I’m working as computer science<br>- 📚 I'm currently learning linux</p>
 
 ###
 
